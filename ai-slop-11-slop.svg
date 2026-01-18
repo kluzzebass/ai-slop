@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="SLOP stop sign">
+  <rect width="240" height="240" fill="none"/>
+  <polygon points="80,20 160,20 220,80 220,160 160,220 80,220 20,160 20,80" fill="#d0021b" stroke="#ffffff" stroke-width="12" stroke-linejoin="round"/>
+  <text x="120" y="150" text-anchor="middle" font-family="Impact, Stencil, fantasy" font-size="54" fill="#ffffff" font-weight="700" letter-spacing="2">SLOP</text>
+</svg>
