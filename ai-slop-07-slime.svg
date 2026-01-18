@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="58" viewBox="0 0 250 58" role="img" aria-label="AI SLOP badge">
+  <rect x="2" y="2" width="246" height="40" rx="10" fill="#c6ff00" stroke="#2d4f00" stroke-width="2"/>
+  <path d="M26 42 C30 54, 42 54, 46 42 C50 30, 62 30, 66 42 C70 54, 82 54, 86 42 C90 30, 102 30, 106 42 C110 54, 122 54, 126 42 C130 30, 142 30, 146 42 C150 54, 162 54, 166 42 C170 30, 182 30, 186 42 C190 54, 202 54, 206 42" fill="#9be000"/>
+  <circle cx="50" cy="46" r="4" fill="#86c800"/>
+  <circle cx="120" cy="46" r="4" fill="#86c800"/>
+  <circle cx="190" cy="46" r="4" fill="#86c800"/>
+  <text x="96" y="28" text-anchor="middle" font-family="Copperplate, fantasy" font-size="24" fill="#2b3d00" font-weight="700" transform="rotate(-6 96 28)">AI</text>
+  <text x="150" y="30" text-anchor="middle" font-family="Impact, Stencil, fantasy" font-size="22" fill="#2b3d00" font-weight="700" transform="rotate(7 150 30)">SLOP</text>
+</svg>

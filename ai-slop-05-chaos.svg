@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="60" viewBox="0 0 250 60" role="img" aria-label="AI SLOP badge">
+  <polygon points="6,6 244,2 248,48 210,56 40,52 2,18" fill="#121212" stroke="#ff7a00" stroke-width="2"/>
+  <polygon points="20,14 34,6 48,14 34,22" fill="#ff7a00"/>
+  <polygon points="204,44 218,36 232,44 218,52" fill="#ff7a00"/>
+  <line x1="70" y1="10" x2="98" y2="24" stroke="#ff7a00" stroke-width="3"/>
+  <line x1="152" y1="28" x2="180" y2="42" stroke="#ff7a00" stroke-width="3"/>
+  <text x="125" y="24" text-anchor="middle" font-family="Stencil, Impact, fantasy" font-size="24" fill="#ffd166" font-weight="800" transform="rotate(-10 125 24)">AI</text>
+  <text x="128" y="42" text-anchor="middle" font-family="Blackletter, fantasy" font-size="22" fill="#ffd166" font-weight="800" transform="rotate(12 128 42)">SLOP</text>
+</svg>

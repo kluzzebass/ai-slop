@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="56" viewBox="0 0 260 56" role="img" aria-label="AI SLOP badge">
+  <rect x="2" y="2" width="256" height="52" rx="16" fill="#f2e6c9" stroke="#8a6b2f" stroke-width="2"/>
+  <path d="M18 28 C32 8, 52 8, 66 28 C52 48, 32 48, 18 28 Z" fill="#8a6b2f"/>
+  <path d="M194 28 C208 8, 228 8, 242 28 C228 48, 208 48, 194 28 Z" fill="#8a6b2f"/>
+  <path d="M78 16 C92 6, 108 6, 122 16" stroke="#8a6b2f" stroke-width="2" fill="none"/>
+  <path d="M138 16 C152 6, 168 6, 182 16" stroke="#8a6b2f" stroke-width="2" fill="none"/>
+  <path d="M90 40 C102 50, 118 50, 130 40 C142 30, 158 30, 170 40" stroke="#8a6b2f" stroke-width="2" fill="none"/>
+  <text x="130" y="34" text-anchor="middle" font-family="GoudyStout, fantasy" font-size="22" fill="#4a3715" font-weight="700" transform="rotate(-3 130 34)">AI SLOP</text>
+</svg>

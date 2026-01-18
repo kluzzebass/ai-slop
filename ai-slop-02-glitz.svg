@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="54" viewBox="0 0 250 54" role="img" aria-label="AI SLOP badge">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#ff3ad6"/>
+      <stop offset="100%" stop-color="#ffea00"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="246" height="50" rx="6" fill="#0a0a12" stroke="#00f5ff" stroke-width="2"/>
+  <rect x="6" y="6" width="238" height="42" rx="4" fill="url(#neon)" opacity="0.85"/>
+  <path d="M8 18 L40 10 L70 16 L100 8 L130 18 L160 10 L190 16 L220 8 L242 18" stroke="#ffffff" stroke-width="2" fill="none" opacity="0.7"/>
+  <circle cx="18" cy="40" r="3" fill="#ffffff"/>
+  <circle cx="232" cy="14" r="3" fill="#ffffff"/>
+  <text x="124" y="18" text-anchor="middle" font-family="Jokerman, Impact, fantasy" font-size="22" fill="#0a0a12" font-weight="800" transform="rotate(-6 124 18)">AI</text>
+  <text x="126" y="38" text-anchor="middle" font-family="Broadway, Impact, fantasy" font-size="22" fill="#0a0a12" font-weight="800" transform="rotate(6 126 38)">SLOP</text>
+</svg>
